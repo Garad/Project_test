@@ -1,11 +1,11 @@
-# Project to test GitHub
+# Project to test GitHub and Git system
 
 ### This is just testing the ability and strength of git
 
 ## Tester:
 * Qusai Abu Hilal
 * Mahmood Garad
-* Muhammad Attas
+* Comming soon.
 
 
 
