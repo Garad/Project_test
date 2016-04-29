@@ -9,3 +9,4 @@
 * Attas Might join
 
 
+# to make this file easily readable in Idiot Windows just add .txt at the end
